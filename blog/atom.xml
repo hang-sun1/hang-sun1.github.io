@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/hang/blog</id>
+    <id>https://hang-sun1.github.io/blog</id>
     <title>My Portfolio Blog</title>
     <updated>2021-06-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/hang/blog"/>
+    <link rel="alternate" href="https://hang-sun1.github.io/blog"/>
     <subtitle>My Portfolio Blog</subtitle>
-    <icon>https://github.com/hang/img/favicon.ico</icon>
+    <icon>https://hang-sun1.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[welcome]]></title>
         <id>welcome</id>
-        <link href="https://github.com/hang/blog/2021/06/22/welcome"/>
+        <link href="https://hang-sun1.github.io/blog/2021/06/22/welcome"/>
         <updated>2021-06-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<!-- ---]]></summary>
     </entry>

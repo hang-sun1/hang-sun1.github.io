@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>My Portfolio Blog</title>
-        <link>https://github.com/hang/blog</link>
+        <link>https://hang-sun1.github.io/blog</link>
         <description>My Portfolio Blog</description>
         <lastBuildDate>Tue, 22 Jun 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[welcome]]></title>
-            <link>https://github.com/hang/blog/2021/06/22/welcome</link>
+            <link>https://hang-sun1.github.io/blog/2021/06/22/welcome</link>
             <guid>welcome</guid>
             <pubDate>Tue, 22 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[<!-- ---]]></description>
