@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_hang_sun=self.webpackChunkportfolio_hang_sun||[]).push([[12],{2017:function(e){e.exports=JSON.parse('{"pageTitle":"My Site","pageDescription":"About me."}')}}]);

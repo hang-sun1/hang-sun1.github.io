@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_hang_sun=self.webpackChunkportfolio_hang_sun||[]).push([[53],{1109:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"className":"docs-version-current","isLast":true,"docsSidebars":{}}')}}]);
