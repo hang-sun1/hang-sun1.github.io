@@ -3,10 +3,10 @@ module.exports = {
   title: 'My Portfolio',
   tagline: 'A React-based static github website template.',
   url: 'https://github.com',
-  baseUrl: '/',
+  baseUrl: '/hang/',
   organizationName: 'hang-sun1', // Usually your GitHub org/user name.
-  projectName: '', // Usually your repo name.
-  onBrokenLinks: 'throw',
+  projectName: 'hang-sun1.github.io', // Usually your repo name.
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   themeConfig: {
@@ -79,7 +79,7 @@ module.exports = {
       'docusaurus-portfolio-plugin',
       {
         username: 'hang-sun1',
-        path: '/',
+        path: '/hang/',
         pageTitle: 'My Site',
         pageDescription: 'About me.',
         userOptions: {},
