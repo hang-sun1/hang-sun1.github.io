@@ -5,7 +5,7 @@ module.exports = {
   url: 'https://github.com',
   baseUrl: '/',
   organizationName: 'hang-sun1', // Usually your GitHub org/user name.
-  projectName: '', // Usually your repo name.
+  projectName: 'hang-sun1.github.io', // Usually your repo name.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -23,7 +23,7 @@ module.exports = {
           position: 'left',
           label: 'More Info',
         },
-        //{ to: 'blog', label: 'Blog', position: 'left' },
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
           href: 'https://github.com/hang-sun1',
           label: 'GitHub',
