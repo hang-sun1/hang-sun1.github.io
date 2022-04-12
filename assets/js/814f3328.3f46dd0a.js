@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio_hang_sun=self.webpackChunkportfolio_hang_sun||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"welcome","permalink":"/blog/2021/06/22/welcome"}]}')}}]);
